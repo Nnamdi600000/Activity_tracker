@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Activity Tracker</string>
+    <string name="running">Running</string>
+    <string name="cycling">Cycling</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="text_view_text_running">Running</string>
+    <string name="running_image_description">Running Image</string>
+    <string name="text_view_5km">5Km</string>
+    <string name="text_view_10km">10km</string>
+    <string name="text_view_half_marathon">Half-Marathon</string>
+    <string name="text_view_one_marathon">One marathon</string>
+    <string name="image_view_cycling_image_description">cycling_image_description</string>
+    <string name="text_view_cycling">Cycling</string>
+    <string name="text_view_longest_ride">Longest Ride</string>
+    <string name="text_view_highest_climb">Highest Climb</string>
+    <string name="text_view_average_ride_speed">Average Ride Speed</string>
+    <string name="text_view_highest_ride_speed">Highest Ride Speed</string>
+    <string name="reset_cycling_record">Reset Cycling Record</string>
+    <string name="reset_cycling_records">Reset Cycling records</string>
+    <string name="reset_all_records">Reset All Records</string>
+</resources>
